@@ -1,0 +1,14 @@
+#ignore
+*
+
+#not ignore
+!*/
+
+!gotoxy.py
+!_gotoxy.c
+
+!for\ import/_gotoxy.so
+!for\ import/gotoxy.py
+
+!LICENSE
+!README.md
